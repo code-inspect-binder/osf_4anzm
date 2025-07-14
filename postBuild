@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/4anzm_src/Code and Datasets")' >> /home/jovyan/.Rprofile
